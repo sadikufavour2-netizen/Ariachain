@@ -1,0 +1,5 @@
+{
+  "name": "Ariachain Mini Runner",
+  "description": "A fast-paced mini runner game built for Ariachain, where you collect tokens and avoid obstacles.",
+  "requestFramePermissions": []
+}
