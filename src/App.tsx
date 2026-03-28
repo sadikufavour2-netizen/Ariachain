@@ -511,7 +511,7 @@ export default function App() {
         <div className="flex items-center gap-4">
           <p className="text-purple-400/60 text-[10px] font-mono tracking-widest uppercase">System: Operational</p>
           <a 
-            href="https://analytics.vgdh.io/ariachain12.vercel.app" 
+            href="https://analytics.vgdh.io/ariachain12-six.vercel.app" 
             target="_blank" 
             rel="noreferrer"
             className="text-[10px] font-mono tracking-widest uppercase text-blue-400 hover:text-blue-300 transition-colors underline underline-offset-2"
@@ -836,7 +836,7 @@ export default function App() {
 
                   <button
                     onClick={() => {
-                      window.open("https://analytics.vgdh.io/ariachain12.vercel.app", "_blank");
+                      window.open("https://analytics.vgdh.io/ariachain12-six.vercel.app", "_blank");
                     }}
                     className="flex items-center gap-4 p-4 bg-white/5 rounded-xl border border-white/5 hover:bg-blue-600/20 hover:border-blue-500/50 transition-all text-left"
                   >
